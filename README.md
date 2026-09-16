@@ -1,16 +1,32 @@
-## Hi there 👋
+# Jesus Javier Trujillo
 
-<!--
-**jmtrujiyo83-jpg/jmtrujiyo83-jpg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Human Systems Engineering (UX) student. 
 
-Here are some ideas to get you started:
+## Current Focus
+- Personal Control Plane
+- Microsoft 365 Administration
+- PowerShell Automation
+- Microsoft Graph
+- Identity Architecture
+- Human Systems Engineering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Active Projects
+
+### Project 001 - Entry Vestibule Floor Plan
+Interactive geometry visualization tool.
+
+### Personal Control Plane
+Unified platform for identity, automation, knowledge, and data management.
+
+## Tech Stack
+- PowerShell
+- Microsoft Graph
+- M365
+- GitHub Actions
+- React
+- TypeScript
+
+## Learning
+- Azure
+- AI Systems
+- Information Architecture
