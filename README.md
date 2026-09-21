@@ -4,10 +4,8 @@ Human Systems Engineering (UX) student.
 
 ## Current Focus
 - Personal Control Plane
-- Microsoft 365 Administration
-- PowerShell Automation
-- Microsoft Graph
-- Identity Architecture
+- 365 Administration
+- PowerShell/Microsoft Graph
 - Human Systems Engineering
 
 ## Active Projects
